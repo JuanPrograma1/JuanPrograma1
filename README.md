@@ -3,9 +3,9 @@
 
 - 🔭 Estoy Trabajando en Proyectos de desarrollo web **Cybersoftwarepanama.com**
 
-- 💬 Ask me about **html, css, Flutterflow, Java, Execel.**
+- 💬 Preguntame sobre **html, css, Flutterflow, Java, Execel.**
 
-- 📫 How to reach me **juanprograma.1@gmail.com**
+- 📫 Contactame **juanprograma.1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
