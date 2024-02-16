@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Juan Molina</h1>
 <h3 align="center">Soy un Developer Apasionado</h3>
 
-- 🔭 Estoy Trabajando en Proyectos de desarrollo web **Cybersoftwarepanama.com**
+- 🔭 Estoy Trabajando en Proyectos de desarrollo web camino a un **Full Stack Developer**
 
 - 💬 Preguntame sobre **html, css, Flutterflow, Java, Execel.**
 
