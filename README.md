@@ -6,6 +6,7 @@
 - 💬 Preguntame sobre **html, css, JavaScript, Flutterflow, Java, Execel.**
 
 - 📫 Contactame **juanprograma.1@gmail.com**
+- 🔗 Linkedin **www.linkedin.com/in/juan-molina-8426132b6**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
