@@ -3,7 +3,7 @@
 
 - 🔭 Estoy Trabajando en Proyectos de desarrollo web camino a un **Full Stack Developer**
 
-- 💬 Preguntame sobre **html, css, JavaScript, Flutterflow, Java, Execel.**
+- 💬 Preguntame sobre **html, css, JavaScript, Flutterflow, Java, Execel, SQL.**
 
 - 📫 Contactame **juanprograma.1@gmail.com**
 - 🔗 Linkedin **www.linkedin.com/in/juan-molina-8426132b6**
