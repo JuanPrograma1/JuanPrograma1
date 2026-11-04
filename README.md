@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Juan Molina</h1>
-<h3 align="center">Soy un Developer Apasionado</h3>
+<h3 align="center">Soy un Developer/DBA Apasionado</h3>
 
 - 🔭 Estoy Trabajando en Proyectos de desarrollo web camino a un **Full Stack Developer**
 
-- 💬 Preguntame sobre **html, css, JavaScript, Flutterflow, Java, Execel, SQL.**
+- 💬 Preguntame sobre **React, TypeScript, JavaScript, Flutter, Java, ORACLE, SQLSERVER, PostgreSQL,.**
 
 - 📫 Contactame **juanprograma.1@gmail.com**
 - 🔗 Linkedin **www.linkedin.com/in/juan-molina-8426132b6**
