@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Juan Molina</h1>
 <h3 align="center">Soy un Developer/DBA Apasionado</h3>
 
-- 🔭 Estoy Trabajando en Proyectos de desarrollo web camino a un **Full Stack Developer**
+- 🔭 Estoy Trabajando en Proyectos web y Agentes de IA camino a un **Full Stack Developer Senior**
 
 - 💬 Preguntame sobre **React, TypeScript, JavaScript, Flutter, C#, Java, ORACLE, SQLSERVER, PostgreSQL,.**
 
